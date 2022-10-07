@@ -1,2 +1,2 @@
 # mehndi-designs
-samplewesite
+samplewebsite
